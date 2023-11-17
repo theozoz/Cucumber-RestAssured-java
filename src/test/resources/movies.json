@@ -1,0 +1,26 @@
+{
+  "ımdbIDSearch": {
+    "s": "batman",
+    "apikey": "a937da3c"
+  },
+  "ratingValueSearch": {
+    "apikey": "a937da3c",
+    "i": ""
+  },
+  "sherlockSeries": {
+    "apikey": "a937da3c",
+    "t": "Sherlock"
+  },
+  "theHobbitMovie": {
+    "apikey": "a937da3c",
+    "t": "The Hobbit: The Battle of the Five Armies"
+  },
+  "theShawshankMovie": {
+    "apikey": "a937da3c",
+    "t": "The Shawshank"
+  },
+  "conAirMovie": {
+    "apikey": "a937da3c",
+    "t": "Con Air"
+  }
+}
